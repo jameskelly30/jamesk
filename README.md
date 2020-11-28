@@ -1,2 +1,2 @@
 # jamesk
- making first game 
+learning git commands. 
